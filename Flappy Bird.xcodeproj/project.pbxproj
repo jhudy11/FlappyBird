@@ -8,15 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		4900F6EA1EBAD88D0012CAFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F6E91EBAD88D0012CAFE /* AppDelegate.swift */; };
-		4900F6EC1EBAD88D0012CAFE /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4900F6EB1EBAD88D0012CAFE /* GameScene.sks */; };
 		4900F6EE1EBAD88D0012CAFE /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4900F6ED1EBAD88D0012CAFE /* Actions.sks */; };
-		4900F6F01EBAD88D0012CAFE /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F6EF1EBAD88D0012CAFE /* GameScene.swift */; };
 		4900F6F21EBAD88D0012CAFE /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F6F11EBAD88D0012CAFE /* GameViewController.swift */; };
 		4900F6F51EBAD88D0012CAFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4900F6F31EBAD88D0012CAFE /* Main.storyboard */; };
 		4900F6F71EBAD88E0012CAFE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4900F6F61EBAD88E0012CAFE /* Assets.xcassets */; };
 		4900F6FA1EBAD88E0012CAFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4900F6F81EBAD88E0012CAFE /* LaunchScreen.storyboard */; };
 		4900F7051EBAD88F0012CAFE /* Flappy_BirdTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F7041EBAD88F0012CAFE /* Flappy_BirdTests.swift */; };
 		4900F7101EBAD88F0012CAFE /* Flappy_BirdUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F70F1EBAD88F0012CAFE /* Flappy_BirdUITests.swift */; };
+		4900F72E1EBADA670012CAFE /* Blue 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7201EBADA670012CAFE /* Blue 1.png */; };
+		4900F72F1EBADA670012CAFE /* Blue 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7211EBADA670012CAFE /* Blue 2.png */; };
+		4900F7301EBADA670012CAFE /* Blue 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7221EBADA670012CAFE /* Blue 3.png */; };
+		4900F7311EBADA670012CAFE /* Blue 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7231EBADA670012CAFE /* Blue 4.png */; };
+		4900F7321EBADA670012CAFE /* Green 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7251EBADA670012CAFE /* Green 1.png */; };
+		4900F7331EBADA670012CAFE /* Green 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7261EBADA670012CAFE /* Green 2.png */; };
+		4900F7341EBADA670012CAFE /* Green 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7271EBADA670012CAFE /* Green 3.png */; };
+		4900F7351EBADA670012CAFE /* Green 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7281EBADA670012CAFE /* Green 4.png */; };
+		4900F7361EBADA670012CAFE /* Red 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F72A1EBADA670012CAFE /* Red 1.png */; };
+		4900F7371EBADA670012CAFE /* Red 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F72B1EBADA670012CAFE /* Red 2.png */; };
+		4900F7381EBADA670012CAFE /* Red 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F72C1EBADA670012CAFE /* Red 3.png */; };
+		4900F7391EBADA670012CAFE /* Red 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 4900F72D1EBADA670012CAFE /* Red 4.png */; };
+		4900F73C1EBADAD30012CAFE /* 04b_19.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4900F73B1EBADAD20012CAFE /* 04b_19.ttf */; };
+		4900F7411EBADAE90012CAFE /* Dead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4900F73E1EBADAE90012CAFE /* Dead.mp3 */; };
+		4900F7421EBADAE90012CAFE /* Fly.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4900F73F1EBADAE90012CAFE /* Fly.mp3 */; };
+		4900F7431EBADAEA0012CAFE /* Score.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7401EBADAE90012CAFE /* Score.mp3 */; };
+		4900F75E1EBADC130012CAFE /* GameplayScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4900F75D1EBADC130012CAFE /* GameplayScene.sks */; };
+		4900F7611EBADCC60012CAFE /* GameplayScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F7601EBADCC60012CAFE /* GameplayScene.swift */; };
+		4900F7641EBAE6890012CAFE /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F7631EBAE6890012CAFE /* Bird.swift */; };
+		4900F7671EBAF7B30012CAFE /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F7661EBAF7B30012CAFE /* Random.swift */; };
+		4900F7691EBB913E0012CAFE /* MainMenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 4900F7681EBB913D0012CAFE /* MainMenuScene.sks */; };
+		4900F76B1EBB91740012CAFE /* MainMenuScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F76A1EBB91740012CAFE /* MainMenuScene.swift */; };
+		4900F76E1EBB97FA0012CAFE /* GameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4900F76D1EBB97FA0012CAFE /* GameManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,9 +60,7 @@
 /* Begin PBXFileReference section */
 		4900F6E61EBAD88D0012CAFE /* Flappy Bird.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flappy Bird.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4900F6E91EBAD88D0012CAFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4900F6EB1EBAD88D0012CAFE /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		4900F6ED1EBAD88D0012CAFE /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
-		4900F6EF1EBAD88D0012CAFE /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		4900F6F11EBAD88D0012CAFE /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		4900F6F41EBAD88D0012CAFE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4900F6F61EBAD88E0012CAFE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -53,6 +72,29 @@
 		4900F70B1EBAD88F0012CAFE /* Flappy BirdUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Flappy BirdUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4900F70F1EBAD88F0012CAFE /* Flappy_BirdUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Flappy_BirdUITests.swift; sourceTree = "<group>"; };
 		4900F7111EBAD88F0012CAFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4900F7201EBADA670012CAFE /* Blue 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue 1.png"; sourceTree = "<group>"; };
+		4900F7211EBADA670012CAFE /* Blue 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue 2.png"; sourceTree = "<group>"; };
+		4900F7221EBADA670012CAFE /* Blue 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue 3.png"; sourceTree = "<group>"; };
+		4900F7231EBADA670012CAFE /* Blue 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Blue 4.png"; sourceTree = "<group>"; };
+		4900F7251EBADA670012CAFE /* Green 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green 1.png"; sourceTree = "<group>"; };
+		4900F7261EBADA670012CAFE /* Green 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green 2.png"; sourceTree = "<group>"; };
+		4900F7271EBADA670012CAFE /* Green 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green 3.png"; sourceTree = "<group>"; };
+		4900F7281EBADA670012CAFE /* Green 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Green 4.png"; sourceTree = "<group>"; };
+		4900F72A1EBADA670012CAFE /* Red 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red 1.png"; sourceTree = "<group>"; };
+		4900F72B1EBADA670012CAFE /* Red 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red 2.png"; sourceTree = "<group>"; };
+		4900F72C1EBADA670012CAFE /* Red 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red 3.png"; sourceTree = "<group>"; };
+		4900F72D1EBADA670012CAFE /* Red 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Red 4.png"; sourceTree = "<group>"; };
+		4900F73B1EBADAD20012CAFE /* 04b_19.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = 04b_19.ttf; sourceTree = "<group>"; };
+		4900F73E1EBADAE90012CAFE /* Dead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Dead.mp3; sourceTree = "<group>"; };
+		4900F73F1EBADAE90012CAFE /* Fly.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Fly.mp3; sourceTree = "<group>"; };
+		4900F7401EBADAE90012CAFE /* Score.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Score.mp3; sourceTree = "<group>"; };
+		4900F75D1EBADC130012CAFE /* GameplayScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameplayScene.sks; sourceTree = "<group>"; };
+		4900F7601EBADCC60012CAFE /* GameplayScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameplayScene.swift; sourceTree = "<group>"; };
+		4900F7631EBAE6890012CAFE /* Bird.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
+		4900F7661EBAF7B30012CAFE /* Random.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
+		4900F7681EBB913D0012CAFE /* MainMenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MainMenuScene.sks; sourceTree = "<group>"; };
+		4900F76A1EBB91740012CAFE /* MainMenuScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainMenuScene.swift; sourceTree = "<group>"; };
+		4900F76D1EBB97FA0012CAFE /* GameManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +126,9 @@
 			isa = PBXGroup;
 			children = (
 				4900F6E81EBAD88D0012CAFE /* Flappy Bird */,
+				4900F75C1EBADBD30012CAFE /* Classes */,
+				4900F75B1EBADBC10012CAFE /* Scenes */,
+				4900F71D1EBADA290012CAFE /* Assets */,
 				4900F7031EBAD88F0012CAFE /* Flappy BirdTests */,
 				4900F70E1EBAD88F0012CAFE /* Flappy BirdUITests */,
 				4900F6E71EBAD88D0012CAFE /* Products */,
@@ -104,9 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				4900F6E91EBAD88D0012CAFE /* AppDelegate.swift */,
-				4900F6EB1EBAD88D0012CAFE /* GameScene.sks */,
 				4900F6ED1EBAD88D0012CAFE /* Actions.sks */,
-				4900F6EF1EBAD88D0012CAFE /* GameScene.swift */,
 				4900F6F11EBAD88D0012CAFE /* GameViewController.swift */,
 				4900F6F31EBAD88D0012CAFE /* Main.storyboard */,
 				4900F6F61EBAD88E0012CAFE /* Assets.xcassets */,
@@ -132,6 +175,122 @@
 				4900F7111EBAD88F0012CAFE /* Info.plist */,
 			);
 			path = "Flappy BirdUITests";
+			sourceTree = "<group>";
+		};
+		4900F71D1EBADA290012CAFE /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				4900F73D1EBADAE90012CAFE /* Sounds */,
+				4900F73A1EBADAD20012CAFE /* Fonts */,
+				4900F71F1EBADA670012CAFE /* Bird Blue */,
+				4900F7241EBADA670012CAFE /* Bird Green */,
+				4900F7291EBADA670012CAFE /* Bird Red */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		4900F71F1EBADA670012CAFE /* Bird Blue */ = {
+			isa = PBXGroup;
+			children = (
+				4900F7201EBADA670012CAFE /* Blue 1.png */,
+				4900F7211EBADA670012CAFE /* Blue 2.png */,
+				4900F7221EBADA670012CAFE /* Blue 3.png */,
+				4900F7231EBADA670012CAFE /* Blue 4.png */,
+			);
+			path = "Bird Blue";
+			sourceTree = "<group>";
+		};
+		4900F7241EBADA670012CAFE /* Bird Green */ = {
+			isa = PBXGroup;
+			children = (
+				4900F7251EBADA670012CAFE /* Green 1.png */,
+				4900F7261EBADA670012CAFE /* Green 2.png */,
+				4900F7271EBADA670012CAFE /* Green 3.png */,
+				4900F7281EBADA670012CAFE /* Green 4.png */,
+			);
+			path = "Bird Green";
+			sourceTree = "<group>";
+		};
+		4900F7291EBADA670012CAFE /* Bird Red */ = {
+			isa = PBXGroup;
+			children = (
+				4900F72A1EBADA670012CAFE /* Red 1.png */,
+				4900F72B1EBADA670012CAFE /* Red 2.png */,
+				4900F72C1EBADA670012CAFE /* Red 3.png */,
+				4900F72D1EBADA670012CAFE /* Red 4.png */,
+			);
+			path = "Bird Red";
+			sourceTree = "<group>";
+		};
+		4900F73A1EBADAD20012CAFE /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				4900F73B1EBADAD20012CAFE /* 04b_19.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		4900F73D1EBADAE90012CAFE /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				4900F73E1EBADAE90012CAFE /* Dead.mp3 */,
+				4900F73F1EBADAE90012CAFE /* Fly.mp3 */,
+				4900F7401EBADAE90012CAFE /* Score.mp3 */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		4900F75B1EBADBC10012CAFE /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+				4900F75D1EBADC130012CAFE /* GameplayScene.sks */,
+				4900F7681EBB913D0012CAFE /* MainMenuScene.sks */,
+			);
+			name = Scenes;
+			sourceTree = "<group>";
+		};
+		4900F75C1EBADBD30012CAFE /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4900F76C1EBB97E30012CAFE /* GameManager */,
+				4900F7651EBAF79F0012CAFE /* Random Class */,
+				4900F7621EBAE65A0012CAFE /* Bird Class */,
+				4900F75F1EBADC9F0012CAFE /* Scene Classes */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		4900F75F1EBADC9F0012CAFE /* Scene Classes */ = {
+			isa = PBXGroup;
+			children = (
+				4900F7601EBADCC60012CAFE /* GameplayScene.swift */,
+				4900F76A1EBB91740012CAFE /* MainMenuScene.swift */,
+			);
+			name = "Scene Classes";
+			sourceTree = "<group>";
+		};
+		4900F7621EBAE65A0012CAFE /* Bird Class */ = {
+			isa = PBXGroup;
+			children = (
+				4900F7631EBAE6890012CAFE /* Bird.swift */,
+			);
+			name = "Bird Class";
+			sourceTree = "<group>";
+		};
+		4900F7651EBAF79F0012CAFE /* Random Class */ = {
+			isa = PBXGroup;
+			children = (
+				4900F7661EBAF7B30012CAFE /* Random.swift */,
+			);
+			name = "Random Class";
+			sourceTree = "<group>";
+		};
+		4900F76C1EBB97E30012CAFE /* GameManager */ = {
+			isa = PBXGroup;
+			children = (
+				4900F76D1EBB97FA0012CAFE /* GameManager.swift */,
+			);
+			name = GameManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -244,8 +403,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4900F7351EBADA670012CAFE /* Green 4.png in Resources */,
+				4900F7301EBADA670012CAFE /* Blue 3.png in Resources */,
 				4900F6F51EBAD88D0012CAFE /* Main.storyboard in Resources */,
-				4900F6EC1EBAD88D0012CAFE /* GameScene.sks in Resources */,
+				4900F7341EBADA670012CAFE /* Green 3.png in Resources */,
+				4900F7421EBADAE90012CAFE /* Fly.mp3 in Resources */,
+				4900F7361EBADA670012CAFE /* Red 1.png in Resources */,
+				4900F7431EBADAEA0012CAFE /* Score.mp3 in Resources */,
+				4900F7371EBADA670012CAFE /* Red 2.png in Resources */,
+				4900F7691EBB913E0012CAFE /* MainMenuScene.sks in Resources */,
+				4900F75E1EBADC130012CAFE /* GameplayScene.sks in Resources */,
+				4900F7321EBADA670012CAFE /* Green 1.png in Resources */,
+				4900F7311EBADA670012CAFE /* Blue 4.png in Resources */,
+				4900F7331EBADA670012CAFE /* Green 2.png in Resources */,
+				4900F73C1EBADAD30012CAFE /* 04b_19.ttf in Resources */,
+				4900F7381EBADA670012CAFE /* Red 3.png in Resources */,
+				4900F7391EBADA670012CAFE /* Red 4.png in Resources */,
+				4900F72F1EBADA670012CAFE /* Blue 2.png in Resources */,
+				4900F72E1EBADA670012CAFE /* Blue 1.png in Resources */,
+				4900F7411EBADAE90012CAFE /* Dead.mp3 in Resources */,
 				4900F6F71EBAD88E0012CAFE /* Assets.xcassets in Resources */,
 				4900F6FA1EBAD88E0012CAFE /* LaunchScreen.storyboard in Resources */,
 				4900F6EE1EBAD88D0012CAFE /* Actions.sks in Resources */,
@@ -273,8 +449,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4900F6F01EBAD88D0012CAFE /* GameScene.swift in Sources */,
+				4900F76B1EBB91740012CAFE /* MainMenuScene.swift in Sources */,
+				4900F7611EBADCC60012CAFE /* GameplayScene.swift in Sources */,
 				4900F6F21EBAD88D0012CAFE /* GameViewController.swift in Sources */,
+				4900F76E1EBB97FA0012CAFE /* GameManager.swift in Sources */,
+				4900F7671EBAF7B30012CAFE /* Random.swift in Sources */,
+				4900F7641EBAE6890012CAFE /* Bird.swift in Sources */,
 				4900F6EA1EBAD88D0012CAFE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -524,6 +704,7 @@
 				4900F7161EBAD88F0012CAFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4900F7171EBAD88F0012CAFE /* Build configuration list for PBXNativeTarget "Flappy BirdTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +713,7 @@
 				4900F7191EBAD88F0012CAFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4900F71A1EBAD88F0012CAFE /* Build configuration list for PBXNativeTarget "Flappy BirdUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +722,7 @@
 				4900F71C1EBAD88F0012CAFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
